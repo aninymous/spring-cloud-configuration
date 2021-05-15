@@ -6,3 +6,6 @@ jwt:
 #  url:
 #    path: /users/log-in
 
+dynamic:
+  override:
+    config: 67890

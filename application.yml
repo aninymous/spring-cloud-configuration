@@ -8,4 +8,4 @@ jwt:
 
 dynamic:
   override:
-    config: 67890
+    config: 11111

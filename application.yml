@@ -2,6 +2,7 @@ jwt:
   token:
     expiration_time: 86400000
 
-login:
-  url:
-    path: /users/log-in
+#login:
+#  url:
+#    path: /users/log-in
+
